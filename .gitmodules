@@ -1,5 +1,5 @@
 [submodule "src/rs_driver"]
 	path = src/rs_driver
-	url = git@github.com:EhsanZibaei/rs_driver.git
+	url = https://github.com/EhsanZibaei/rs_driver.git
 	branch = main
 
